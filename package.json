@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "twitter.js": "^0.14.0"
+  }
+}
